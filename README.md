@@ -19,8 +19,6 @@
   <a href="https://instagram.com/gugarauj07" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gugaraujo01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gustavo-lima-b2358420b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  ![](https://komarev.com/ghpvc/?username=Gugarauj07&color=006bed)
 
 - 🎓 &nbsp; Studying **Computer Engeneering** at <a href="https://www.uea.edu.br">Universidade do Estado do Amazonas</a>.
 - 💼 &nbsp; Working with **R&D Scholarship** at <a href="https://stem.uea.edu.br">Academia STEM</a>
