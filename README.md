@@ -21,7 +21,6 @@
   <a href="https://www.linkedin.com/in/gustavo-lima-b2358420b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 - 🎓 &nbsp; Studying **Computer Engeneering** at <a href="https://www.uea.edu.br">Universidade do Estado do Amazonas</a>.
-- 💼 &nbsp; Working with **R&D Scholarship** at <a href="https://stem.uea.edu.br">Academia Callidus</a>
 
  
   ![Snake animation](https://github.com/Gugarauj07/Gugarauj07/blob/output/github-contribution-grid-snake.svg)
